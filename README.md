@@ -6,5 +6,7 @@ This is a self paced training, meaning you can work through the tutorials on the
 
 The tutorials are in documents linked in the [list](https://github.com/olentangyfrc/New-Member-Training/edit/test/README.md#tutorial-list) below, not actually in this repository. This repository contains the resources used in the tutorials.
 
+To do the exercises, clone the entire repository, then enter the directory of the exercise for the tutorial you are doing. If you can't find the exercise you need in your local repository, trying pulling from github again as your version might be out of date.
+
 ## Tutorial List
 1. [The Robot Class](https://docs.google.com/document/d/1v7erM0mteAZZjO-BOrxYyaHZuWeG20AdYuosvo2PjBU/edit?usp=sharing)
