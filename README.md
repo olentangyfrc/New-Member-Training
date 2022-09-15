@@ -9,10 +9,10 @@ The tutorials are in documents linked in the [list](https://github.com/olentangy
 To do the exercises, clone the entire repository, then enter the directory of the exercise for the tutorial you are doing. If you can't find the exercise you need in your local repository, trying pulling from github again as your version might be out of date.
 
 ## Tutorial List
-1. [VS Code, Documentation, and Java Project Structure](https://docs.google.com/document/d/1Zt6IVMSJgHXQPgcmNlBdsL7srrTf53vShnvtdIsTZx4/edit?usp=sharing)
-2. [The Robot Class](https://docs.google.com/document/d/1v7erM0mteAZZjO-BOrxYyaHZuWeG20AdYuosvo2PjBU/edit?usp=sharing)
-3. [Motors 101](https://docs.google.com/document/d/1JWKgR_UJH9laKT6mgramyKKsxErS8bSbKd1gRMXso7o/edit?usp=sharing)
-4. [Basic GitHub Skills](https://docs.google.com/document/d/1L3_k6H93TddDNTOuHFHAscj8kp6-6-_Y/edit?usp=sharing&ouid=109771470329998441218&rtpof=true&sd=true)
+1. [Basic GitHub Skills](https://docs.google.com/document/d/1L3_k6H93TddDNTOuHFHAscj8kp6-6-_Y/edit?usp=sharing&ouid=109771470329998441218&rtpof=true&sd=true)
+2. [VS Code, Documentation, and Java Project Structure](https://docs.google.com/document/d/1Zt6IVMSJgHXQPgcmNlBdsL7srrTf53vShnvtdIsTZx4/edit?usp=sharing)
+3. [The Robot Class](https://docs.google.com/document/d/1v7erM0mteAZZjO-BOrxYyaHZuWeG20AdYuosvo2PjBU/edit?usp=sharing)
+4. [Motors 101](https://docs.google.com/document/d/1JWKgR_UJH9laKT6mgramyKKsxErS8bSbKd1gRMXso7o/edit?usp=sharing)
 
 ## How to Contribute
 See the [contributing](/contributing.md) file.
