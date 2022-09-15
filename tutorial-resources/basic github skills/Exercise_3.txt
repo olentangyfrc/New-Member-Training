@@ -1,0 +1,6 @@
+Last exercise for this tutorial. Try and create two different branches,
+and then try to create a Merge Conflict. If you do this sucessfully, and you 
+are the first to do so, you can come to Rishi and he will give you a prize.
+
+Hint: Look at Creating Branches and Resolving Merge Conflicts on the
+Basic Github Skills Document in the README.md file.
