@@ -1,4 +1,0 @@
-Clone this repository. If you do not know how, 
-check the Basic Github Skills Document in the README.md file.
-
-
