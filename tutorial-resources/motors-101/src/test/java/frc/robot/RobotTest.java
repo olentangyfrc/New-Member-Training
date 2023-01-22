@@ -10,7 +10,6 @@ import static org.junit.Assert.*;
 public class RobotTest {
 
     @Mock
-    // TODO Need to integrate Mockito Framework
     private Robot myRobot;
 
     @Before
