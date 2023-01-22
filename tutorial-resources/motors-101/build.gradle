@@ -66,6 +66,7 @@ dependencies {
     simulationRelease wpi.sim.enableRelease()
 
     testImplementation 'junit:junit:4.12'
+    implementation group: 'org.mockito', name: 'mockito-core', version: '+'
 }
 
 // Simulation configuration (e.g. environment variables).
@@ -79,6 +80,7 @@ jar {
     from { configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) } }
     manifest edu.wpi.first.gradlerio.GradleRIOPlugin.javaManifest(ROBOT_MAIN_CLASS)
     duplicatesStrategy = DuplicatesStrategy.INCLUDE
+    
 }
 
 // Configure jar and deploy tasks

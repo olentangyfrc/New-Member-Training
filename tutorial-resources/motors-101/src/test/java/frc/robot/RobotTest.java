@@ -3,12 +3,13 @@ package frc.robot;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.mockito.Mock;
 
 import static org.junit.Assert.*;
 
 public class RobotTest {
 
-    //@Mock
+    @Mock
     // TODO Need to integrate Mockito Framework
     private Robot myRobot;
 
