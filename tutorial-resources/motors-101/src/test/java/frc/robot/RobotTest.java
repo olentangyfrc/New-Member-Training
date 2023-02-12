@@ -5,7 +5,8 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 public class RobotTest {
 
@@ -23,19 +24,19 @@ public class RobotTest {
     }
 
     @Test
-    public void testRobotNull() throws Exception{
-       assertNotNull(myRobot);
+    public void testRobotNull() throws Exception {
+        assertNotNull(myRobot);
     }
 
     @Test
-    public void testRobotPerioidsNotNull() throws Exception{
+    public void testRobotPerioidsNotNull() throws Exception {
         assertNotNull(myRobot.getPeriod());
     }
 
     @Test
-    public void testRobotPerioidsDefault() throws Exception{
-       // System.out.println("actual "+myRobot.getPeriod());
+    public void testRobotPerioidsDefault() throws Exception {
+        // System.out.println("actual "+myRobot.getPeriod());
         double expectedPeriod = 0.02d;
-        assertEquals(expectedPeriod, myRobot.getPeriod(),0);
+        assertEquals(expectedPeriod, myRobot.getPeriod(), 0);
     }
 }
